@@ -1,0 +1,4 @@
+#Thu Apr 02 13:07:39 EDT 2020
+base.0=/Users/fieldemployee/AndroidStudioProjects/Scorekeeper/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
